@@ -2,7 +2,7 @@
 ### Welcome to my GitHub page! 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF00FF&lines=I%60m+QA+Engineer)](https://git.io/typing-svg)
 - 👩‍💼 **Experience**: With over 7 years in IT, including 4 years as a QA Engineer, I bring a wealth of expertise to ensure top-notch software quality
-- 🧪 **Testing Expertise**: I have a strong understanding of testing methodologies and tools, allowing me to meticulously assess and validate software systems
+- 🐞 **Testing Expertise**: I have a strong understanding of testing methodologies and tools, allowing me to meticulously assess and validate software systems
 - 🌍 **Multinational Exposure**: I thrive in diverse multinational environments, collaborating effectively with teams of varied backgrounds and perspectives
 - 🕹️ **Manual Testing Mastery**: I excel in manual testing, focusing on UI and backend (web apps, microservices) to deliver optimal user experiences and reliable system functionality
 - 🤖 **Automation Proficiency**: Proficient in automation testing methodologies and tools, complementing manual testing expertise
