@@ -1,6 +1,6 @@
 <!--
 😾 Don't copy my profile design! 
-⛔ Copycat list:
+⛔ Copycat:
 https://github.com/VadimTolstov
 ...
 -->
@@ -50,3 +50,5 @@ https://github.com/VadimTolstov
   </a>
 
 P.S. LinkedIn is the best way.
+
+Please do not copy my profile design! If you find it inspiring and it sparks your creativity, feel free to give it a star. It's alright to use certain elements, but please refrain from using the entire profile information.
