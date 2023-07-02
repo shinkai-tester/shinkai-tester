@@ -1,3 +1,10 @@
+<!--
+😾 Don't copy my profile design! 
+⛔ Copycat list:
+https://github.com/VadimTolstov
+...
+-->
+
 ## About Me
 ### Welcome to my GitHub page! 👋
 [![ISTQB FL Certification](https://www.gasq.org/logo__1_1.png)](https://www.gasq.org/en/registration/expert/26b9327b-cd72-43d6-b180-2b6a7c1206f8.html)
