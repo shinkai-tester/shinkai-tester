@@ -10,7 +10,7 @@ https://github.com/VadimTolstov
 [![ISTQB FL Certification](https://www.gasq.org/logo__1_1.png)](https://www.gasq.org/en/registration/expert/26b9327b-cd72-43d6-b180-2b6a7c1206f8.html)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF00FF&lines=Test+Automation+Engineer)](https://git.io/typing-svg)
 
-- 👩‍💼 **Experience**: With over 7 years in IT, including 4 years as a QA Engineer, I bring a wealth of expertise to ensure top-notch software quality
+- 👩‍💼 **Experience**: With over 8 years in IT, including 4 years as a QA Engineer, I bring a wealth of expertise to ensure top-notch software quality
 - 🐞 **Testing Expertise**: I have a strong understanding of testing methodologies and tools, allowing me to meticulously assess and validate software systems
 - 🌍 **Multinational Exposure**: I thrive in diverse multinational environments, collaborating effectively with teams of varied backgrounds and perspectives
 - 🕹️ **Manual Testing Mastery**: I excel in manual testing, focusing on UI and backend (web apps, microservices) to deliver optimal user experiences and reliable system functionality
