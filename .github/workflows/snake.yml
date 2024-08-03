@@ -20,9 +20,7 @@ jobs:
         with:
           github_user_name: shinkai-tester
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=darkmagenta&color_dots=#C0C0C0,#551A8B,#551A8B,#551A8B,#551A8B&background_color=black
-            dist/github-snake.gif?color_snake=darkmagenta&color_dots=#FFD700,#6A5ACD,#C0C0C0,#551A8B,#800080
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00BFFF&color_dots=#A9A9A9,#551A8B,#551A8B,#551A8B,#551A8B&background_color=black
 
       - name: Push Snake
         uses: peaceiris/actions-gh-pages@v4
