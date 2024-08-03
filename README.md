@@ -36,7 +36,7 @@ https://github.com/VadimTolstov
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shinkai-tester&theme=tokyonight" alt="Repos Per Language">
 </p>
 
-![GitHub Snake](https://github.com/shinkai-tester/shinkai-tester/blob/gh-pages/github-snake.gif)
+![GitHub Snake](https://github.com/shinkai-tester/shinkai-tester/blob/gh-pages/github-snake-dark.svg)
 
 
 ## Ways to reach me
