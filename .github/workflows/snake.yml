@@ -21,7 +21,7 @@ jobs:
           github_user_name: shinkai-tester
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=darkmagenta&color_dots=#C0C0C0,#551A8B,#551A8B,#551A8B,#551A8B&background_color=black
             dist/github-snake.gif?color_snake=darkmagenta&color_dots=#FFD700,#6A5ACD,#C0C0C0,#551A8B,#800080
 
       - name: Push Snake
