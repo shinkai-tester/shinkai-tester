@@ -36,6 +36,8 @@ https://github.com/VadimTolstov
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shinkai-tester&theme=tokyonight" alt="Repos Per Language">
 </p>
 
+![GitHub Snake](https://github.com/shinkai-tester/shinkai-tester/blob/output/snake.svg)
+
 
 ## Ways to reach me
   <a href="https://www.linkedin.com/in/alexandra-klimantova">
