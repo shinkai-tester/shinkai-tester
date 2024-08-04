@@ -11,8 +11,8 @@ https://github.com/VadimTolstov
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF00FF&lines=Test+Automation+Engineer)](https://git.io/typing-svg)
 
 
-- 👩‍💼 Full-stack test engineer with over 8 years in IT, including 5+ years in testing
-- 🕹️ Experience in both manual and automated testing for web apps and backend
+- 👩‍💼 Full-stack test engineer with over 9 years in IT, including 5+ years in testing
+- 🕹️ Experience in both manual and automated testing for web app and backend
 - 🌍 Effective in multinational team settings, fluent in English and German
 - 🌱 Committed to ongoing professional development
 
@@ -48,7 +48,4 @@ https://github.com/VadimTolstov
   <a href="https://t.me/alin_laegnor">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-
-P.S. LinkedIn is the best way.
-
-Please do not copy my profile design! If you find it inspiring and it sparks your creativity, feel free to give it a star. It's alright to use certain elements, but please refrain from using the entire profile information.
+  
