@@ -1,11 +1,11 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 2 * * *" 
-  push:
-    branches:
-      - main
+#  schedule:
+#    - cron: "0 2 * * *" 
+#  push:
+#    branches:
+#      - main
   workflow_dispatch:
 
 jobs:
