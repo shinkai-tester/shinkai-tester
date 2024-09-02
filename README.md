@@ -1,8 +1,5 @@
 <!--
-😾 Don't copy my profile design! 
-⛔ Copycat:
-https://github.com/VadimTolstov
-...
+😾 Don't copy my profile design!
 -->
 
 ## About Me
