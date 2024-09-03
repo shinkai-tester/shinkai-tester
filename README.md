@@ -2,11 +2,28 @@
 😾 Don't copy my profile design!
 -->
 
-## About Me
-### Welcome to my GitHub page! 👋
-[![ISTQB FL Certification](https://www.gasq.org/logo__1_1.png)](https://www.gasq.org/en/registration/expert/26b9327b-cd72-43d6-b180-2b6a7c1206f8.html)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF00FF&lines=Test+Automation+Engineer)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Welcome%20to%20My%20GitHub%20Profile!%20🌸&width=800&height=400&fontSize=50" alt="Luminance Banner">
+</p>
 
+
+<h3 align="center">👋 Hi, I'm Sasha</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23FF00FF&center=true&vCenter=true&lines=Full-stack+test+engineer" alt="Typing SVG">
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHprcGhkNTQ0cmFvcmIwODk3NWNsNjQ3bmFlcXM2bzIwbGQxN3VoMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7NoNw4pMNTvgc/giphy.gif" alt="Coding Cat GIF">
+</p>
+
+
+
+## About Me
+
+[![ISTQB FL Certification](https://www.gasq.org/logo__1_1.png)](https://www.gasq.org/en/registration/expert/26b9327b-cd72-43d6-b180-2b6a7c1206f8.html)
 
 - 👩‍💼 Full-stack test engineer with over 9 years in IT, including 5+ years in testing
 - 🕹️ Experience in both manual and automated testing for web app and backend
