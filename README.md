@@ -16,9 +16,8 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHprcGhkNTQ0cmFvcmIwODk3NWNsNjQ3bmFlcXM2bzIwbGQxN3VoMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7NoNw4pMNTvgc/giphy.gif" alt="Coding Cat GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHprcGhkNTQ0cmFvcmIwODk3NWNsNjQ3bmFlcXM2bzIwbGQxN3VoMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7NoNw4pMNTvgc/giphy.gif" alt="Coding Cat GIF" width="300" height="300">
 </p>
-
 
 
 ## About Me
