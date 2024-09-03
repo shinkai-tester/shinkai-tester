@@ -3,7 +3,7 @@
 -->
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Welcome%20to%20My%20GitHub%20Profile!%20🌸&width=800&height=400&fontSize=50" alt="Luminance Banner">
+  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Welcome%20to%20my%20GitHub%20profile!%20🌸&width=800&height=400&fontSize=50" alt="Luminance Banner">
 </p>
 
 
