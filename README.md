@@ -24,7 +24,7 @@
 
 [![ISTQB FL Certification](https://www.gasq.org/logo__1_1.png)](https://www.gasq.org/en/registration/expert/26b9327b-cd72-43d6-b180-2b6a7c1206f8.html)
 
-- 👩‍💼 Over 9 years in IT, including 5+ years in testing
+- 👩‍💼 Over 9 years in IT, including 6 years in testing
 - 🕹️ Experience in both manual and automated testing for web app and backend
 - 🌍 Effective in multinational team settings, fluent in English and German
 - 🌱 Committed to ongoing professional development
