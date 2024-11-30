@@ -48,7 +48,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shinkai-tester&theme=tokyonight" alt="Profile Details">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shinkai-tester&theme=tokyonight" alt="Stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shinkai-tester&theme=tokyonight" alt="Repos Per Language">
-  <img src="https://github.com/shinkai-tester/shinkai-tester/blob/gh-pages/github-snake-dark.svg" alt="Commits" width="800">
+  <img src="https://github.com/shinkai-tester/shinkai-tester/blob/gh-pages/github-snake-dark.svg" alt="Commits">
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aleksandra&color=8A2BE2" alt="Profile Views">
