@@ -10,7 +10,7 @@
 <h3 align="center">👋 Hi, I'm Sasha</h3>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23FF00FF&center=true&vCenter=true&lines=Full-stack+test+engineer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23FF00FF&center=true&vCenter=true&lines=QA+Engineer" alt="Typing SVG">
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 
 [![ISTQB FL Certification](https://www.gasq.org/logo__1_1.png)](https://www.gasq.org/en/registration/expert/26b9327b-cd72-43d6-b180-2b6a7c1206f8.html)
 
-- 👩‍💼 Over 9 years in IT, including 6 years in testing
+- 👩‍💼 Over 9 years in IT, including 6+ years in testing
 - 🕹️ Experience in both manual and automated testing for web app and backend
 - 🌍 Effective in multinational team settings, fluent in English and German
 - 🌱 Committed to ongoing professional development
