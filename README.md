@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHprcGhkNTQ0cmFvcmIwODk3NWNsNjQ3bmFlcXM2bzIwbGQxN3VoMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7NoNw4pMNTvgc/giphy.gif" alt="Coding Cat GIF" width="300" height="300">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shinkai-tester&theme=tokyonight" alt="Repos Per Language">
 </p>
 
 
@@ -24,11 +24,22 @@
 
 [![ISTQB FL Certification](https://www.gasq.org/logo__1_1.png)](https://www.gasq.org/en/registration/expert/26b9327b-cd72-43d6-b180-2b6a7c1206f8.html)
 
-- 👩‍💼 Over 9 years in IT, including 6+ years in testing
+- 👩‍💼 Over 10 years in IT (Service Desk, Deployment Management, QA), including 7+ years in testing
 - 🕹️ Experience in both manual and automated testing for web app and backend
 - 🌍 Effective in multinational team settings, fluent in English and German
 - 🌱 Committed to ongoing professional development
-
+- 🛠️ Tools & Technologies I currently work with (Kotlin Build Tools, JetBrains)
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white" alt="TeamCity"/>
+  <img src="https://img.shields.io/badge/YouTrack-000000?style=for-the-badge&logo=youtrack&logoColor=white" alt="YouTrack"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+</p>
 
 ## My Projects
 
@@ -42,12 +53,9 @@
 | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) [Java for Testers](https://software-testing.ru/edu/3-online/1-java-for-testers) | 2021 | [![Java for Testers](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shinkai-tester&repo=java_pft&bg_color=DEG,FFA05F,FFCD5F)](https://github.com/shinkai-tester/java_pft) | [![Certificate](https://img.shields.io/badge/Certificate-View-green)](http://cert.software-testing.ru/302623028432339468) |
 
 
-
-## My Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shinkai-tester&theme=tokyonight" alt="Profile Details">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shinkai-tester&theme=tokyonight" alt="Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shinkai-tester&theme=tokyonight" alt="Repos Per Language">
+<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shinkai-tester&theme=tokyonight" alt="Profile Details"> -->
+<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shinkai-tester&theme=tokyonight" alt="Stats"> -->
 <!--   <img src="https://github.com/shinkai-tester/shinkai-tester/blob/gh-pages/github-snake-dark.svg" alt="Commits"> -->
 </p>
 
